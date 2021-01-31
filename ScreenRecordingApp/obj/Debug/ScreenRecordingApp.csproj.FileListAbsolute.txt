@@ -1,0 +1,12 @@
+E:\Utilities\ScreenRecordingApp\ScreenRecordingApp\bin\Debug\ScreenRecordingApp.exe.config
+E:\Utilities\ScreenRecordingApp\ScreenRecordingApp\bin\Debug\ScreenRecordingApp.exe
+E:\Utilities\ScreenRecordingApp\ScreenRecordingApp\bin\Debug\ScreenRecordingApp.pdb
+E:\Utilities\ScreenRecordingApp\ScreenRecordingApp\obj\Debug\ScreenRecordingApp.csprojAssemblyReference.cache
+E:\Utilities\ScreenRecordingApp\ScreenRecordingApp\obj\Debug\ScreenRecordingApp.Properties.Resources.resources
+E:\Utilities\ScreenRecordingApp\ScreenRecordingApp\obj\Debug\ScreenRecordingApp.csproj.GenerateResource.cache
+E:\Utilities\ScreenRecordingApp\ScreenRecordingApp\obj\Debug\ScreenRecordingApp.exe
+E:\Utilities\ScreenRecordingApp\ScreenRecordingApp\obj\Debug\ScreenRecordingApp.pdb
+E:\Utilities\ScreenRecordingApp\ScreenRecordingApp\obj\Debug\ScreenRecordingApp.Form1.resources
+E:\Utilities\ScreenRecordingApp\ScreenRecordingApp\bin\Debug\SharpAvi.dll
+E:\Utilities\ScreenRecordingApp\ScreenRecordingApp\bin\Debug\SharpAvi.xml
+E:\Utilities\ScreenRecordingApp\ScreenRecordingApp\obj\Debug\ScreenRecordingApp.csproj.CopyComplete
